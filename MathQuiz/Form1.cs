@@ -100,6 +100,9 @@ namespace MathQuiz
             timeLeft = 30;
             timeLabel.Text = "30 seconds";
             timer1.Start();
+
+            // Reset the timer color
+            timeLabel.BackColor = SystemColors.Control;
         }
 
         private void startButton_Click(object sender, EventArgs e)
