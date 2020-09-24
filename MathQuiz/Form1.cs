@@ -48,7 +48,7 @@ namespace MathQuiz
         public Form1()
         {
             InitializeComponent();
-            currentDate.Text = DateTime.Now.ToString("dd MMMM yyyy");
+            currentDate.Text = DateTime.Now.ToString("d MMMM yyyy");
         }
 
         /// <summary>

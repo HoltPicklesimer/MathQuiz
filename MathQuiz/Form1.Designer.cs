@@ -284,9 +284,9 @@
             // 
             this.startButton.AutoSize = true;
             this.startButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.startButton.Location = new System.Drawing.Point(178, 352);
+            this.startButton.Location = new System.Drawing.Point(176, 352);
             this.startButton.Name = "startButton";
-            this.startButton.Size = new System.Drawing.Size(198, 41);
+            this.startButton.Size = new System.Drawing.Size(200, 41);
             this.startButton.TabIndex = 1;
             this.startButton.Text = "Start the Quiz!";
             this.startButton.UseVisualStyleBackColor = true;
